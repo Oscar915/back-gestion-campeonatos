@@ -1,0 +1,27 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Back para la gestión de campeonatos de balón mano",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oscar915/back-gestion-campeonatos.git"
+  },
+  "keywords": [
+    "balon",
+    "mano"
+  ],
+  "author": "equipo 4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oscar915/back-gestion-campeonatos/issues"
+  },
+  "homepage": "https://github.com/Oscar915/back-gestion-campeonatos#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
